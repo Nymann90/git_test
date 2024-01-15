@@ -1,2 +1,4 @@
 jeg tror jeg forstår de her 3 trins gemmning. RØD GRØN commit
 test test
+test test test
+git commitgit status
